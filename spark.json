@@ -1,5 +1,5 @@
 {
-  "name": "xbee_tester",
+  "name": "XBee",
   "author": "Maria Kromis - EC544group5",
   "version": "0.0.0",
   "description": "A library to integrate xbee with photon"
