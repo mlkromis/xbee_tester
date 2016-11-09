@@ -1,7 +1,6 @@
 {
   "name": "ec544-challenge6-xbee-library",
   "author": "Maria Kromis - EC544group5",
-  "license": "none",
-  "version": "1",
+  "version": "0.0.0",
   "description": "A library to integrate xbee with photon"
 }
